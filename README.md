@@ -28,8 +28,8 @@
 
 ## PROGRAM
 ```
-Developed By : Kadin Samson L
-Reg No : 212221230044
+Developed By : mohamed aseem p
+Reg No : 212221230063
 ```
 ```py
 import numpy as np
